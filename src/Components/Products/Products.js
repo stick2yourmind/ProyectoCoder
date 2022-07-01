@@ -16,7 +16,7 @@ const podcast = {
 const av = {
   img: avImg,
   title: 'Audiovisuales',
-  description: 'Construimos piezas de comunicación, gráficas-audiovisuales de acuerdo a las necesidades de los formatos de cada red social. Youtube, FB, IG, TikTok, TW.'
+  description: 'Construimos piezas de comunicación, gráficas, audiovisuales de acuerdo a las necesidades de los formatos de cada red social. Youtube, FB, IG, TikTok, TW.'
 }
 const avRedes = {
   img: avRedesImg,
