@@ -66,6 +66,8 @@ const CardMobileStyled = styled(motion.div)`
     flex-direction: column;
     border: 1px solid white;
     border-radius: 35px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
   }
   .mcard-card-front-img{
     height: 100px;
@@ -88,6 +90,8 @@ const CardMobileStyled = styled(motion.div)`
     border: 1px solid white;
     border-radius: 35px;
     padding: 0 20px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
   }
   .mcard-inner-back-description{
     font-weight: 500;
