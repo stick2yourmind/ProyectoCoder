@@ -8,7 +8,7 @@ const Footer = () => {
       <Logo id='footer-img'/>
       {/* <img id='footer-img' src={footerImg} alt='footer logo' /> */}
       <div className="info-container">
-        <p className="info-email">podcastraiz@gmail.com</p>
+        <p className="info-email">xxx@gmail.com</p>
         <p className="info-phone">+54 9 11 9999 9999</p>
       </div>
     </FooterStyle>
