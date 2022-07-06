@@ -129,6 +129,7 @@
 
   .Texts {
     width: auto;
+    height: fit-content;
   }
   .TxtContainer {
     padding: 0% 13% 0% 13%;
