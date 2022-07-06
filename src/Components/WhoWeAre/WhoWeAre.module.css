@@ -121,7 +121,7 @@
 
 @media only screen and (max-width: 480px) {
   .MainContainer {
-    height: 350px;
+    height: auto;
   }
   .Rectangulo {
     display: none;
